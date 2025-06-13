@@ -1,0 +1,482 @@
+.carousel-inner {
+    height: 100vh;
+    width: 100%;
+}
+
+.dich img{
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+}
+.dich{
+    text-align: center;
+    color: white;
+}
+.dichs{
+    margin-top: 50vh;
+}
+.back h2,h1{
+    text-align: center;
+}
+.back h2{
+    font-family: "Great Vibes", cursive;
+    color: rosybrown;
+    font-size:100px;
+    
+    margin-top: 100px;
+}
+.back h1{
+    font-size: 100px;
+    color: white;
+    position: absolute;
+    margin-top: 60px;
+    margin-left: 150px;
+}
+.back{
+    background-color: rgba(0, 0, 0, 0.637);
+    position: absolute;
+    transform: translateY(-110%);
+    width: 100%;
+    height: 100%;
+}
+.container img{
+    width: 300px;
+    height: 550px;
+}
+.container{
+    margin: 0px;
+}
+.img-about{
+    padding: 20px;
+    margin-left: 40px;
+}
+.img{
+    margin-top: 10px;
+    padding-left: 10px;
+}
+.great-vibes-regular {
+    font-family: "Great Vibes", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+.text-about h2{
+    color: rgb(184, 142, 142);
+    font-family: "Great Vibes", cursive;
+    position: absolute;
+    transform: translateY(-40%);
+    font-size: 80px;
+}
+.text-about{
+    margin: 10px;
+    position: relative;
+    padding: 70px;
+}
+.text-about p{
+    color: gray;
+    position: relative;
+}
+.counter-about{
+    margin-left: 60px;
+    padding: 40px;
+}
+.text-about h3{
+    padding: 10px;
+    color: rosybrown;
+}
+
+.counter{
+    padding: 60px;
+    margin: 5px;
+}
+.counter p{
+    font-size: 16px;
+    color: gray;
+}
+.counter h2{
+    color: rosybrown;
+}
+.counter-1{
+    padding: 10px;
+    color: gray;
+    margin-top: 50px;
+}
+.Services{
+    padding: 80px;
+    text-align: center;
+    margin: 10px;
+}
+.Services i{
+    color: rosybrown;
+    font-size: 70px;
+    padding: 10px;
+}
+.text-Services h2{
+    font-family: "Great Vibes", cursive;
+    color: rosybrown;
+    position: absolute;
+    transform: translateY(-40px);
+    margin-left: 450px;
+    margin-bottom: 50px;
+    font-size: 80px;
+}
+ .text-Services{
+    padding: 10px;
+ }
+.text-Services h1{
+    position: relative;
+}
+
+.text-Menu h2{
+    font-family: "Great Vibes", cursive;
+    color: rosybrown;
+    position: absolute;
+    transform: translateY(-40px);
+    margin-left: 450px;
+    margin-bottom: 50px;
+    font-size: 80px;
+}
+ .text-Menu{
+    padding: 10px;
+ }
+.text-Menu h1{
+    position: relative;
+    text-align: center;
+    margin-left: 100px;
+}
+.menu{
+    width: 80%;
+    margin-left: 50px;
+    border: 10px;
+}
+.menu-1
+{
+    width: 110%;
+    padding: 10px !important;
+    
+}
+.menu-1 img{
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+}
+.d1{
+    
+    width: 200px;
+
+}
+.d1 h4{
+    font-size: 30px;
+}
+.d1 p{
+    font-size: 20px;
+    color: gray;
+}
+.d1 button{
+    background-color: rosybrown;
+    color: white;
+    padding: 10px;
+    border-color: white;
+}
+.d1 button:hover{
+    background-color: white;
+    color: rosybrown;
+}
+.d2{
+    color: rosybrown;
+    margin: 10px;
+}
+.text-chef h2{
+    font-family: "Great Vibes", cursive;
+    color: rosybrown;
+    position: absolute;
+    transform: translateY(-40px);
+    margin-left: 550px;
+    margin-bottom: 50px;
+    font-size: 80px;
+}
+ .text-chef{
+    padding: 10px;
+ }
+.text-chef h1{
+    position: relative;
+    text-align: center;
+    margin-left: 450px;
+}
+.icon i{
+    color: rosybrown;
+    padding: 10px;
+}
+.Master-Chef img{
+    width: 200px;
+    height: 300px;
+    border-radius: 20px;
+}
+.Master-Chef{
+    margin-top: 100px;
+    padding: 20px;
+    margin-right: 10px;
+    margin: 30px;
+}
+.Master-Chef p{
+    color: gray;
+}
+
+.Master{
+    margin: 50px;
+    position: absolute;
+}
+
+.forms{
+    background-image: url(bg_3.jpg);
+    background-size: cover;
+    height: 100vh;
+    position: relative;
+    transform: translateY(120%);
+}
+.text-form h2{
+    font-family: "Great Vibes", cursive;
+    color: rosybrown;
+    position: absolute;
+    transform: translateY(-40px);
+    margin-left: 70px;
+
+    font-size: 80px;
+}
+ .text-form{
+    padding: 10px;
+    
+    
+    width: 500px;
+ }
+.text-form h1{
+    margin-left: 70px;
+}
+.form{
+    
+    width: 500px;
+    margin-left: 70px;
+}
+.ff{
+    background-color: white;
+    width: 600px;
+    height: 500px;
+    margin-top: 50px;
+    position: absolute;
+    margin-left: 100px;
+}
+form input{
+    border-radius: 3px;
+    border-color: gray;
+}
+
+.btn-1{
+    margin-left: 35%;
+    margin-top: 30px;
+    padding: 20px;
+    background-color: rosybrown;
+    color: white;
+    border-radius: 2px;
+
+}
+.btn-1:hover{
+    background-color: white;
+    color: rosybrown;
+}
+.customer{
+    margin-left: 100px !important;
+    text-align: center;
+    margin: 60px;
+    
+}
+.HappyCustomer{
+    position: absolute;
+    transform: translateY(210%);
+    height: 60vh;
+
+}
+.text-customer h2{
+    font-family: "Great Vibes", cursive;
+    color: rosybrown;
+    position: absolute;
+    transform: translateY(-40px);
+    margin-left: 500px;
+    margin-top: 10px;
+    font-size: 80px;
+}
+ .text-customer{
+    padding: 10px;
+    
+ }
+.text-customer h1{
+    margin-left: 250px;
+    position: relative;
+    margin-bottom: 10px;
+}
+.img-customer img{
+    border-radius: 100%;
+    width: 200px;
+    height: 200px;
+}
+.img-customer{
+    padding: 10px;
+}
+.img-customer h3{
+    font-size: 20px;
+}
+.img-customer{
+    padding: 70px;
+}
+.img-customer p,h5{
+    margin-top:20px;
+    color: gray;
+
+}
+.ikon{
+    background-color: rosybrown;
+    color: white;
+    border-radius: 100%;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    margin-left: 130px;
+    margin-top: 0px;
+    position: absolute;
+    transform: translateY(-40px);
+}
+.ikon i{
+    margin-top: 20px;
+}
+.carousel-indicators [data-bs-target]{
+    width: 15px;
+    height: 15px;
+    border-radius: 50% 50%;
+    background-color: brown;
+}
+.Recent-Posts{
+    position: absolute;
+    transform: translateY(200%);
+}
+.text-Recent h2{
+    font-family: "Great Vibes", cursive;
+    color: rosybrown;
+    position: absolute;
+    transform: translateY(-40px);
+    margin-left: 500px;
+    margin-top: 10px;
+    font-size: 80px;
+}
+ .text-Recent{
+    padding: 10px;
+    
+ }
+.text-Recent h1{
+    margin-left: 200px;
+    position: relative;
+    margin-bottom: 10px;
+}
+.Blog img{
+    width: 300px;
+    height: 400px;
+}
+.img-Blog{
+    width: 300px;
+}
+.img-Blog{
+    background-color: rgb(229, 236, 234);
+    margin-top: 30px;
+}
+.img-Blog p{
+    color: gray;
+}
+.img-Blog h3{
+    font-size: 25px;
+}
+.bb h4{
+    padding: 5px;
+    font-size: 15px;
+}
+.bb i{
+    color: gray;
+}
+.footer{
+    position: absolute;
+    transform: translateY(2500px);
+    background-color: rgb(26, 25, 25);
+    width: 100%;
+    height: 100vh;
+}
+.Feliciano{
+    width: 20%;
+    margin-top: 100px;
+    color: white;
+    margin-left: 100px;
+    padding: 10px;
+}
+.Feliciano p{
+    color: gray;
+}
+.Feliciano i{
+    font-size: 20px;
+}
+.Open-Hours{
+    width: 20%;
+    margin-top: 100px;
+    color: white;
+    
+}
+.Open-Hours p{
+    color: gray;
+}
+.img-inst img{
+    width: 100px;
+    height: 100px;
+}
+.ins{
+    
+    margin-top: 100px;
+    color: white;
+    
+    padding: 10px;
+}
+.Newsletter{
+    width: 15%;
+    margin-top: 100px;
+    color: white;
+    margin-right: 100px;
+    padding: 10px;
+}
+.Newsletter p{
+    color: gray;
+}
+.Newsletter input{
+    border: 0cap;
+    padding: 10px;
+}
+.Newsletter button{
+    padding: 10px;
+    width: 202px;
+    border: 0cap;
+    margin-top: 10px;
+    background-color: rosybrown;
+    color: white;
+}
+ p{
+    text-align: center;
+    color: gray;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
